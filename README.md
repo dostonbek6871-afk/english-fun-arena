@@ -1,2 +1,5 @@
-# english-fun-arena
-ENGLISH FUN ARENA — play, laugh, compete and speak English
+# ENGLISH FUN ARENA
+
+Play. Laugh. Compete. Speak. Learn.
+
+Live: https://english-fun-arena.netlify.app
